@@ -23,7 +23,7 @@
         {
             "label": "Current Inventory",
             "altText": "Current Inventory",
-            "url": "/inventory",
+            "url": "/invento",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
