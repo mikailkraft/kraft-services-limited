@@ -4,7 +4,7 @@ title: Current Inventory
 sections:
   - type: DividerSection
     title: Divider
-    elementId: ''
+    elementId: ebay-listing
     colors: bg-light-fg-dark
     styles:
       self:
