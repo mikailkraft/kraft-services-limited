@@ -115,10 +115,9 @@ sections:
         type: FeaturedItem
       - title: Return
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If a repair isn't up to snuff, I'm happy to return with a full refund,
+          otherwise I'll go back in and make things right at no extra cost.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
