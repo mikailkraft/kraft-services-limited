@@ -54,7 +54,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: The Three Rs
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
