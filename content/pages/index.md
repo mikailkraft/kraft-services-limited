@@ -64,10 +64,12 @@ sections:
       - type: FeaturedItem
         title: Repair
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Devices get old, things break, and sometimes the fix is easier than
+          you think. I handle repairs for laptops, phones, tablets, and
+          more—always 
+
+          with transparency and a focus on what’s actually worth fixing.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
